@@ -34,3 +34,10 @@ To run the python_dash.py file:
 `python python_dash.py`
 
 The application will then be available in your web browser at http://localhost:8050.
+
+## Here is the images of graphs
+App review scores
+![Alt Text](newplot.png)
+Number of Thumbs Up for Reviews
+![Alt Text](newplot1.png)
+
