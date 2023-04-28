@@ -15,3 +15,22 @@ git clone https://github.com/username/dash-repo.git
 
 2. Navigate to the repository:
 
+`cd Python-Das`
+
+3. Create virtual environmentand activate:
+
+`virtualenv env`
+
+` . env/bin/activate` for linux and windows is `. env/Scripts/activate`
+
+4. Install the required packages:
+
+`pip install -r requirements.txt`
+
+### Running the Applications
+
+To run the python_dash.py file:
+
+`python python_dash.py`
+
+The application will then be available in your web browser at http://localhost:8050.
