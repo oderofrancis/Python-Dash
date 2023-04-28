@@ -8,9 +8,10 @@ To run the applications in this repository, you will need to have Python 3 insta
 
 ## Installation
 1. Clone the repository:
-``
-git clone https://github.com/username/dash-repo.git
 
 ``
+git clone https://github.com/username/dash-repo.git
+``
+
 2. Navigate to the repository:
 
