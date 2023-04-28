@@ -39,5 +39,5 @@ The application will then be available in your web browser at http://localhost:8
 App review scores
 ![Alt Text](newplot.png)
 Number of Thumbs Up for Reviews
-![Alt Text](newplot(1).png)
+![Alt Text](newplot1.png)
 
